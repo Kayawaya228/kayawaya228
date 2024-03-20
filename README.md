@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Languages that I learned ・・・Python,C#
+#### Certificate that I have ・・・AZ204
